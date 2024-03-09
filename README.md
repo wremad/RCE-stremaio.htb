@@ -1,6 +1,9 @@
 # RCE-stremaio.htb
-python script that gives reverse shell 
+
+python script that gives reverse shell
+
 This script is for streamio.htb for getting rce easily
+
 1)First Download the script and add username and password
 
 2)Make a revershell in php from https://www.revshells.com/ 
